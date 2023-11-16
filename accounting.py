@@ -43,13 +43,7 @@ class Person:
             bank.balance += total_debt
         else:
             print('your balance is not enough to pay your debt')
-        
-
-
-
-
-
-        
+             
 
 ####################################################################################################    
 # ali = Person('shahriar', '0016986490', 'gholami', 1000000, {'taken':True, 'date':'1400-01-01'}, 1500000, 2500000)
